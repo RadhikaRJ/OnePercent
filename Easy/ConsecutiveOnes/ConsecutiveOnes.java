@@ -1,3 +1,5 @@
+package Easy.ConsecutiveOnes;
+
 class ConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         
